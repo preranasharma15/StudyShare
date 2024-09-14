@@ -1,0 +1,1 @@
+, I scraped reviews from the StuDocu page on Trustpilot and performed sentiment analysis to understand how users perceive the platform. The analysis involved using natural language processing (NLP) techniques to classify reviews as positive, negative, or neutral. This report explains the methodology, tools, and results obtained from the sentiment analysis.
